@@ -1,0 +1,4 @@
+GOROOT, GOPATH variables for bash_profile
+go mod init github.com/user_name/module_name
+go build github.com/user_name/module_name -> .
+go install github.com/user_name/module_name -> $GOPATH/bin
